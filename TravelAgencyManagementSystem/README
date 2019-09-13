@@ -1,0 +1,3 @@
+Its an application for a travel agency to book flights for its customers.
+It enables travel agency to search and list all flights based on from and to port, register airliners and view their profile, search for best flights available, register customers, book customer reservation on a flight.
+Please refer the Object-Model to get an overview of the implementation.

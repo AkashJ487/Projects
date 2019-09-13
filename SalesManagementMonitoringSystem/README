@@ -1,0 +1,3 @@
+Its an application for a sales company to manage and monitor their sales.
+It enables sales company to configure markets and customer types, manage suppliers and their product catalogs, manage market offer catalog, register sales person, monitor sales as well as sales person’s performance.
+Pelease refer Object model to get an over-view of the implementation.

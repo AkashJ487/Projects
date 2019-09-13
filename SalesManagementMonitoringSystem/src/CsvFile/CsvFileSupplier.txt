@@ -1,0 +1,6 @@
+Supplier1,supp1,supplier@1,Supplier,arun jain,parker 133,ar.jain@gmail.com,Product1,100
+Supplier1,supp1,supplier@1,Supplier,arun jain,parker 133,ar.jain@gmail.com,Product2,100
+Supplier1,supp1,supplier@1,Supplier,arun jain,parker 133,ar.jain@gmail.com,Product3,100
+Supplier2,supp2,supplier@2,Supplier,ratin jain,parker 132,r.jain@gmail.com,Product1,100
+Supplier2,supp2,supplier@2,Supplier,ratin jain,parker 132,r.jain@gmail.com,Product2,100
+Supplier2,supp2,supplier@2,Supplier,ratin jain,parker 132,r.jain@gmail.com,Product3,100

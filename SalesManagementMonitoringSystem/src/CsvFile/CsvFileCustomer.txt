@@ -1,0 +1,4 @@
+Financial,1.15,1.20,1.25,BOFA,123,arun jain,parker 123,a.jain@gmail.com
+Financial,1.15,1.20,1.25,Yes Bank,124,karan jain,parker 124,k.jain@gmail.com
+Educational,1.05,1.10,1.15,NEU,121,Kal Bugrara,parker 126,k.b@gmail.com
+Educational,1.05,1.10,1.15,BU,121,Andy Brown,parker 127,a.b@gmail.com
